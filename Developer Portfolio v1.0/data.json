@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "E-Commerce Dashboard",
+        "description": "A responsive admin panel built with React to manage inventory and visualize sales data. Focus on UI/UX.",
+        "image": "https://placehold.co/600x400",
+        "alt": "E-Commerce Dashboard",
+        "category": "Frontend"
+    },
+    {
+        "id": 2,
+        "title": "RESTful Task API",
+        "description": "A backend service built with Node.js and Express. Handles secure user authentication and CRUD operations for tasks.",
+        "image": "https://placehold.co/600x400",
+        "alt": "RESTful Task API",
+        "category": "Backend"
+    },
+    {
+        "id": 3,
+        "title": "Landing Page Slicer",
+        "description": "Converting a Figma design into pixel-perfect, responsive HTML5/SCSS with modern animations.",
+        "image": "https://placehold.co/600x400",
+        "alt": "Landing Page Slicer",
+        "category": "Frontend"
+    }
+]
